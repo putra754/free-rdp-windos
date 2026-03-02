@@ -1,8 +1,6 @@
 name: RDP_TIPSUNIX
-
 on:
   workflow_dispatch:
-
 jobs:
   secure-rdp:
     runs-on: windows-latest
